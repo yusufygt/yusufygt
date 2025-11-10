@@ -20,7 +20,6 @@
 
 - 🔐 Developing **macOS Hardening & Security Tools**  
 - 🧠 Learning **Machine Learning** & **AI Fundamentals**  
-- 🌿 Building **IoT-based Smart Agriculture Systems**  
 - 🌐 Developing **Full-Stack Web Applications** with Django + React  
 - ⚡ Improving **System Programming Skills** with C / C++  
 
@@ -30,13 +29,14 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufyigit2606@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufyigitt/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yusufygt)
+
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusufygt&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufygt&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
