@@ -14,14 +14,6 @@
 
 ---
 
-## 🎯 Current Focus  
-
-- 🔐 Working on **macOS Security Hardening** and CIS compliance tools  
-- 🌱 Developing **Full-Stack Web Applications** using Django + React  
-- 🤖 Learning **Machine Learning & Data Science** with Python  
-- ☁️ Experimenting with **IoT-based Smart Agriculture Systems**  
-
----
 
 ## 🌐 Connect with Me  
 
