@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Yusuf Yiğit  
 
 🎓 Computer Engineering student @ Konya Technical University  
-💡 Passionate about **Backend Development**, **Cybersecurity**, and **Full-Stack Applications**  
-🚀 Building secure systems, exploring **AI**, **IoT**, and **Automation** projects  
 
 ---
 
@@ -18,7 +16,15 @@
 
 ---
 
+## 🎯 Current Focus  
 
+- 🔐 Developing **macOS Hardening & Security Tools**  
+- 🧠 Learning **Machine Learning** & **AI Fundamentals**  
+- 🌿 Building **IoT-based Smart Agriculture Systems**  
+- 🌐 Developing **Full-Stack Web Applications** with Django + React  
+- ⚡ Improving **System Programming Skills** with C / C++  
+
+---
 
 ## 🌐 Connect with Me  
 
@@ -36,4 +42,3 @@
 
 ---
 
-🧠 *"Secure the system. Automate the world."*  
