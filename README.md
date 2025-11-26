@@ -16,12 +16,6 @@
 
 ---
 
-## 🎯 Current Focus  
-
-- 🔐 Developing **macOS Hardening & Security Tools**  
-- 🧠 Learning **Machine Learning** & **AI Fundamentals**  
-- 🌐 Developing **Full-Stack Web Applications** with Django + React  
-- ⚡ Improving **System Programming Skills** with C / C++  
 
 ---
 
