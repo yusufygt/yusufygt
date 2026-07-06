@@ -28,11 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufygt&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
 ---
 
