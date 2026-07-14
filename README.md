@@ -41,4 +41,4 @@ Currently focusing on Machine Learning, Deep Learning and Industrial Computer Vi
 
 ## 🐍 My Contributions
 
-![Snake animation](https://raw.githubusercontent.com/<username>/<username>/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/<yusufygt>/<yusufygt>/output/github-contribution-grid-snake.svg)
