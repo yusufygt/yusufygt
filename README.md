@@ -37,8 +37,3 @@ Currently focusing on Machine Learning, Deep Learning and Industrial Computer Vi
 | 📧 Email | **yusufyigit2606@gmail.com** |
 | 💼 LinkedIn | https://www.linkedin.com/in/yusufyigitt/ |
 | 💻 GitHub | https://github.com/yusufygt |
-
-
-## 🐍 My Contributions
-
-![Snake animation](https://raw.githubusercontent.com/<yusufygt>/<yusufygt>/output/github-contribution-grid-snake.svg)
